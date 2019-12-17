@@ -1,4 +1,4 @@
-# awesome-federated-learning [![Awesome](/Users/ivexu/Desktop/notes/figures/badge.svg)](https://awesome.re)
+# awesome-federated-learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of resources dedicated to federated learning.
 
 # Paper
